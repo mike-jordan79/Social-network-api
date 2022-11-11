@@ -1,4 +1,4 @@
-The project was designed to demonstrate a working back end of a fuinctional social media website. The project includes folders fo routes, models, controllers, which function in a NoSQL Database
+The project was designed to demonstrate a working back end of a fuinctional social media website. 
 
 Instillation
 
